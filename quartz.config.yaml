@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: SanatanaWiki
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -133,7 +133,7 @@ plugins:
   - source: github:quartz-community/graph
     enabled: true
     layout:
-      position: right
+      position: bottom
       priority: 10
   - source: github:quartz-community/search
     enabled: true
@@ -198,8 +198,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Telegram: https://t.me/ElainaAli1
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
