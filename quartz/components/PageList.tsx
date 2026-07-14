@@ -79,7 +79,7 @@ return (
                     href={resolveRelative(fileData.slug!, page.slug!)}
                     class="internal internal-link"
                   >
-                    {title}
+                    {title}test
                   </a>
                 </h3>
                 
