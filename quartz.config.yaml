@@ -41,7 +41,7 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
-  - source: github:quartz-community/created-modified-date
+  - source: github:c071487b5d/s
     enabled: true
     options:
       defaultDateType: modified
