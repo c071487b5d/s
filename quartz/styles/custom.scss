@@ -4,3 +4,32 @@
 ul.section-ul .meta {
   display: none !important;
 }
+
+
+/* --- Custom List Page Layout --- */
+ul.section-ul .section {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: flex-start !important;
+}
+
+/* 1. Hide the Date */
+ul.section-ul .section .meta {
+  display: none !important;
+}
+
+/* 2. Force the title to the top */
+ul.section-ul .section .desc {
+  order: 1 !important;
+}
+
+/* Remove invisible padding below the title */
+ul.section-ul .section .desc h3 {
+  margin-bottom: 0 !important;
+}
+
+/* 3. Force the inline tags directly under the title */
+ul.section-ul .section .tags {
+  order: 2 !important;
+  margin-top: 0.3rem !important; 
+}
