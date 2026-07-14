@@ -1,7 +1,9 @@
 ---
-title: In hinduism, If a shudra teaches a brahmin his duty the king shall pour hot oil into his mouth & ears!
+title: Shudra teching Brahmin
 tags: violence, caste
 ---
+
+In hinduism, If a shudra teaches a brahmin his duty the king shall pour hot oil into his mouth & ears!
 
 > If through arrogance, he teaches brāhmaṇas their duty, the king shall pour heated oil into his mouth and ears.
 
